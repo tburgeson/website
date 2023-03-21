@@ -1,2 +1,2 @@
-# CompSite
+# Website
 My personal website
